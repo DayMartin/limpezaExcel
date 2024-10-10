@@ -1,0 +1,23 @@
+# Ignorar arquivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+.idea/
+
+.vscode/
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+*.spec
+
+.build
