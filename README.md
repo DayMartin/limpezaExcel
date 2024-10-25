@@ -1,4 +1,4 @@
-Software para limpeza de colunas em excel! 
+Software para limpeza de colunas do excel! 
 
 Back: Python, Flask
 Front: Tkinter
